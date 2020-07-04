@@ -1,0 +1,33 @@
+author = "Hussain Kadhem"
+description = "Hussain Kadhem's personal site"
+keywords = "blog,developer,academic,mathematician,personal"
+info = "software developer and math student"
+hideCredits = true
+hideCopyright = true
+dateFmt = "2006-02-01 15:04:05 MST"
+showNavHeader = true
+showFullContent = true
+showEmptyPagination = false
+showMetaDates = false
+showMetaLinks = false
+# Uses Hugo internal templates if set
+opengraph = false
+schema = false
+twitter_cards = false
+
+#[[social]]
+#    name = "Github"
+#    icon = "fab fa-github"
+#    weight = 1
+#    url = "https://github.com/hussainjk/"
+[[social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 2
+    url = "https://twitter.com/functoreality/"
+[[social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/hussain-j/"
+

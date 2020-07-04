@@ -1,0 +1,12 @@
+[submodule "themes/academia"]
+	path = themes/academia
+	url = git@github.com:themefisher/academia-hugo.git
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "themes/slick"]
+	path = themes/slick
+	url = https://github.com/spookey/slick.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
