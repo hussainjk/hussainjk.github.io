@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hussain Kadhem</title>
+    <link>https://hussainjk.github.io/</link>
+    <description>Recent content on Hussain Kadhem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hussainmkj@gmail.com (Hussain Kadhem)</managingEditor>
+    <webMaster>hussainmkj@gmail.com (Hussain Kadhem)</webMaster>
+    <lastBuildDate>Sat, 04 Jul 2020 17:59:46 -0400</lastBuildDate>
+    
+	<atom:link href="https://hussainjk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://hussainjk.github.io/about/</link>
+      <pubDate>Sat, 04 Jul 2020 17:59:46 -0400</pubDate>
+      <author>hussainmkj@gmail.com (Hussain Kadhem)</author>
+      <guid>https://hussainjk.github.io/about/</guid>
+      <description>I work as a compiler developer in the IBM Toronto lab. I am in my final year of undergraduate studies in math at the University of Toronto.  My Work I am currently employed as a software developer at IBM, where I work on the open-source LLVM compiler infrastructure. I have been involved in projects spanning the areas of loop optimization, loop vectorization, register allocation, and PowerPC enablement.
+my studies I am currently doing supervised independent study courses</description>
+    </item>
+    
+  </channel>
+</rss>
