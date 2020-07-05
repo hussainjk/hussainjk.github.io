@@ -1,10 +1,11 @@
-baseURL = "http://hussainjk.github.io/"
+baseURL = "https://hussainjk.github.io"
 languageCode = "en"
 defaultContentLanguage = "en-ca"
 title = "Hussain Kadhem"
 theme = "hugo-coder"
 
 canonifyURLs = true
+RelativeURLs=true
 preserveTaxonomyNames = true
 paginate = 10
 paginatePath = "page"
