@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hussain Kadhem</title>
-    <link>https://hussainjk.github.io/</link>
-    <description>Recent content on Hussain Kadhem</description>
+    <title>About Me on Hussain Kadhem</title>
+    <link>https://hussainjk.github.io/about/</link>
+    <description>Recent content in About Me on Hussain Kadhem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hussainmkj@gmail.com (Hussain Kadhem)</managingEditor>
     <webMaster>hussainmkj@gmail.com (Hussain Kadhem)</webMaster>
-    <lastBuildDate>Mon, 31 Aug 2020 15:14:30 -0400</lastBuildDate>
     
-	<atom:link href="https://hussainjk.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hussainjk.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Learning Seminar On Mirror Theory</title>
-      <link>https://hussainjk.github.io/mtsem/</link>
-      <pubDate>Mon, 31 Aug 2020 15:14:30 -0400</pubDate>
-      <author>hussainmkj@gmail.com (Hussain Kadhem)</author>
-      <guid>https://hussainjk.github.io/mtsem/</guid>
-      <description>Fall 2020 We are running an online learning seminar at the University of Toronto on mirror symmetry, aimed at undergraduate students.
-organization The seminar is being led by Waleed Qaisar. We meet every Monday at 10:30 am on zoom. If you would like to join, then please contact Waleed for the meeting password.
-Outline We will start by following this Clay monograph by Hori et al. The initial aim will be to finish Part 2 as quickly as possible, but not quicker.</description>
-    </item>
     
     <item>
       <title>Disability Statement</title>
